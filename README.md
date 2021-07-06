@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://snake-js-psi.vercel.app/">
     <img src="./snake-game/img/ICON.png" height="100" width="100" alt="Unform" />
   </a>
 </p>
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./snake-game/img/CAPA.png" alt="Unform" />
+  <img src="./snake-game/img/CAPAA.png" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
