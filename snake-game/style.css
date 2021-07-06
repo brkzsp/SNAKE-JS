@@ -1,10 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;   
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
 body{
+    font-family: 'Inter', sans-serif;
     height: 95vh;
     width: 95vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:#0d1117;
-    color: rgb(52, 165, 52);
+    
+    background-size: cover;
+    overflow: hidden;
+    color: #5ce6df;
 }
+
+img {
+    width: 120vw;
+    height: 100vh;
+    animation: gradient 20s ease-in-out infinite alternate;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+}
+
+.border {
+    border: 6px dashed ;
+    margin-bottom: 20px;
+    padding: 5px;
+    animation: PWD 5s ease-in-out infinite alternate;
+}
+
+canvas {
+    border-radius: 10px;
+    border: 4px solid #ffffff;
+    margin-bottom: 2.5rem;
+}
+
+
+.botoes {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao i{
+    font-size: 4rem;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    margin-top: 3rem;
+}
+
+.botao i:hover{
+    font-size: 5rem;
+}
+
+.botoes h3{
+    margin-top: 3rem;
+    font-family: 'inter';
+    color: white;
+    animation: PWD 5s ease-in-out infinite alternate;
+}
+
+@keyframes gradient {
+
+    to{
+        transform: translate(-50px);
+    }
+}
+
+@keyframes PWD {
+    from{
+        color: purple;
+    }
+    50%
+    {
+        color: white;
+    }
+    to{
+        color: rgb(106, 106, 255);
+    }
+}
+
+h1{
+    animation: PWD 5s ease-in-out infinite alternate;
+}
+
