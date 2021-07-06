@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="./img/LOGO.png" height="100" width="100" alt="Unform" />
+    <img src="./snake-js/img/LOGO.png" height="100" width="100" alt="Unform" />
   </a>
 </p>
 
