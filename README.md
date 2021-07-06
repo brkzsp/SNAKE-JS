@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./snake-game/img/" alt="Unform" />
+  <img src="./snake-game/img/CAPA.png" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
