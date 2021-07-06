@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="./snake-js/img/LOGO.png" height="100" width="100" alt="Unform" />
+    <img src="./snake-js/img/ICON.png" height="100" width="100" alt="Unform" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./snake-game/img/CAPA.png" alt="Unform" />
+  <img src="./snake-game/img/" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
