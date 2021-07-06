@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="" height="100" width="100" alt="Unform" />
+    <img src="./img/LOGO.png" height="100" width="100" alt="Unform" />
   </a>
 </p>
 
