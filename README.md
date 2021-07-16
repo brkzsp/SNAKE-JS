@@ -30,5 +30,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Kauê Gois Braga 👋🏽 Entre em contato para fazer um networking!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kaue-blue?style=flat-square&logo=Linkedin&logoColor=white&https:/https://www.linkedin.com/in/kau%C3%AA-braga//)](https://https://www.linkedin.com/in/kau%C3%AA-braga//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kaue-blue?style=flat-square&logo=Linkedin&logoColor=white&https:/https://www.linkedin.com/in/kau%C3%AA-braga/)](https://www.linkedin.com/in/kau%C3%AA-braga/) 
 [![Gmail Badge](https://img.shields.io/badge/-kauebragagg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauebragagg@gmail.com)](mailto:kauebragagg@gmail.com)
